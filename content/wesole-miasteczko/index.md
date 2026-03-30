@@ -7,7 +7,7 @@ menus: "main"
 params:
   theme: light
 resources:
-  - src: mina-rad-V94CguEmeos-unsplash.jpg
+  - src: 02.jpg
     params:
       cover: true
 ---
