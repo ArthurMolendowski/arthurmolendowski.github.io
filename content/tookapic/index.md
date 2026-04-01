@@ -1,8 +1,8 @@
 ---
 title: "Projekt 365 - Tookapic"
-categories: ["Projekt 365 - Tookapic"]
-menu: "main"
-weight: 5
+# categories: ["Projekt 365 - Tookapic"]
+# menu: "main"
+# weight: 5
 description: "Mój projekt 365 na Tookapic. Kliknij poniższy link, aby przejść do profilu."
 ---
 
