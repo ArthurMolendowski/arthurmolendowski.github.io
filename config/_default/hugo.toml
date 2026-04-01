@@ -51,7 +51,7 @@ title = "Artur Molendowski | Portfolio"
     url = "mailto:twoj@email.com"
     weight = 3
     
-[[menu.main]]
-  name = "Projekt 365 - Tookapic"
-  url = "https://tookapic.com/snufkin_artur"
-  weight = 4
+  [[menu.main]]
+    name = "Projekt 365 - Tookapic"
+    url = "https://tookapic.com/snufkin_artur"
+    weight = 4
