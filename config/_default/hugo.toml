@@ -19,9 +19,9 @@ theme = "gallery"
     name = "Artur Molendowski"
 
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    email = "mailto:twoj@email.com"
+    facebook = "https://www.facebook.com/artur.molendowski"
+    instagram = "https://www.instagram.com/artur_molendowski/"
+    # email = "mailto:twoj@email.com"
 
   [params.gallery]
     boxSpacing = 10
